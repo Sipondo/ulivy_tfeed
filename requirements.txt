@@ -1,0 +1,9 @@
+Babel
+glcontext
+kivy[base]
+kivy_examples
+numpy
+pandas
+Pillow
+cython
+lark
